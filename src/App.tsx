@@ -6,7 +6,7 @@ import Add from './pages/Admin/add-product'
 import Products from './pages/Admin/products'
 import Orders from './pages/Admin/orders'
 import Customers from './pages/Admin/customers'
-import Category from './pages/Admin/Category'
+import Category from './pages/Admin/category'
 
 export default function App() {
   return (
